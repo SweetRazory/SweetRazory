@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweetrazory&label=Profile%20views&color=0e75b6&style=flat" alt="sweetrazory" /> </p>
 
-- 🔭 I’m currently working on [Curry Toolkit](https://currytoolkit.dev)
+- 🔭 I’m currently working on [PePo](https://getpepo.com)
 
 - 🌱 I’m currently learning **MoleculerJS, DevOps**
 
