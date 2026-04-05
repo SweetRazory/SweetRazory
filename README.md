@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **sweetrazory@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/155qW0pO-wPpEi7D00COcSM8V4skAr1cy/view?usp=sharing](https://drive.google.com/file/d/155qW0pO-wPpEi7D00COcSM8V4skAr1cy/view?usp=sharing)
-
 - ⚡ Fun fact **Everything I touch turns into Typescript code.**
 
 <h3 align="left">Connect with me:</h3>
